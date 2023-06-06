@@ -1,0 +1,164 @@
+.image{
+    background-image: url(./templatemo_slide_2.jpg);
+    margin: 20px;
+    background-repeat: no repeat;
+    height: 480px;
+    width: 100%;
+}
+header{
+ margin: 30px;
+ border: 3px solid black;
+ width: 98%%;
+ height: 60px;
+ background-color: white;
+}
+img{
+    width: 50px;
+    height:50px;
+    margin-top: 2px;
+    margin-left: 3px;
+}
+header ul li {
+    padding-left: 60px;
+    position: relative;
+    margin-left: 20px;
+    display: inline;
+
+}
+ul{
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+    display
+    
+}
+.li1{
+    margin-left:420px;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    margin-top: 100px;
+    margin-right: 95% ;
+    margin-left: 35px;
+}
+.para{
+    border: 2px solid black;
+    height: 80px;
+    width: 100%;
+    background-color: white;
+
+}
+para div{
+    padding-left: 50px;
+    position: relative;
+    margin-left: 20px;
+    display: inline-block;
+    
+}
+.div1 {
+    margin-left: 20px;
+    background-color: yellow;
+    display: inline-block;
+}
+.div2{
+    margin-left:200px;
+    display: inline-block;
+    background-color: yellow;
+
+}
+.div3{
+    margin-left:250px;
+    display: inline-block;
+    background-color: yellow;
+}
+.div4{
+    margin-left:300px;
+    display: inline-block;
+    background-color: yellow;
+}
+.pic{
+    border: 2px solid black;
+    height: 250px;
+    width: 100%;
+    background-color: white;
+    margin-top: 20px;}
+pic img{
+    padding-left: 50px;
+    position: relative;
+    margin-left: 20px;
+    display: inline-block;
+}
+ .img1{
+    width: 60px;
+    height: 60px;
+   display: inline-block;
+   
+ }
+ .img2{
+    padding-left: 250px;
+    width:  200px;
+    height: 200px;
+    display: inline-block;
+ }
+ .img3{
+    padding-left: 250px;
+    width:  200px;
+    height: 200px;
+    display: inline-block;
+ }
+ .img4{
+    padding-left: 130px;
+    width:  100px;
+    height: 100vh;
+    display: inline-block;
+ }
+ .images{
+        border: 2px solid black;
+        height: 200px;
+        width: 100%;
+        background-color: white;
+        margin-top: 20px;
+        display: inline-block;
+    }
+
+ images logo{
+    padding-left: 60px;
+    position: relative;
+    margin-left: 20px;
+    display: inline;
+ }
+ .logo1{
+   display: inline;
+   width: 20px;
+   height: 20px;
+ .logo2{
+   margin-left: 20px;
+   display: inline;
+   padding-left: 250px;
+   width: 20px;
+   height: 20px;
+ }
+ .logo3 {
+    margin-left: 60px;
+    display: inline;
+    padding-left: 300px;
+    width: 20px;
+   height: 20px;
+
+ }
+ .logo4{
+    margin-left: 70px;
+    display: inline;
+    padding-left: 400px;
+    width: 20px;
+   height: 20px;
+ }
+footer{
+    border: display: ;
+    border: 2px solid black;
+    padding-left: 2%;
+}
+
+
